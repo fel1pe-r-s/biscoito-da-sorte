@@ -19,7 +19,7 @@ Aqui neste **[link](https://www.figma.com/community/file/1182751789348533739)** 
 ## Deploy
 
 Para Acessa o projeto acesse
-[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://biscuit-da-luck.netlify.app/[target=_blank])
+[![codesandbox](https://img.shields.io/badge/Deploy-000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://biscuit-da-luck.netlify.app/)
 
 ## Demonstração
 
