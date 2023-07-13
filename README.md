@@ -12,8 +12,7 @@ A ideia agora é criar o Jogo chamado Biscoito da Sorte,no qual o usuário, **a 
 
 ## Layout da aplicação
 
-Aqui neste **[link](https://www.figma.com/community/file/1182751789348533739){:target="_blank"}** você tem acesso ao Figma do projeto**.** Abaixo você pode ver como a aplicação deve ficar:
-<a href="https://www.figma.com/community/file/1182751789348533739" target="_blank">[![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=Figma&logoColor=white)</a>
+Aqui neste **[link](https://www.figma.com/community/file/1182751789348533739)** você tem acesso ao Figma do projeto**.** Abaixo você pode ver como a aplicação deve ficar:
 
 
 [![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=Figma&logoColor=white)](https://www.figma.com/community/file/1182751789348533739)
